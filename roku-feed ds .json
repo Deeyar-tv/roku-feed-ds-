@@ -1,0 +1,46 @@
+{
+    "channel_name": "Deeyar TV",
+    "founder": "Zaid Jawanmard",
+    "launch_year": 2025,
+    "short_description": "Afghanistan’s News & Entertainment Channel",
+    "full_description": "Deeyar TV is a leading multimedia channel founded by Afghan journalists in exile and a bold voice for freedom of expression and independent journalism. This dynamic platform has quickly earned a reputation as the most free and unbiased media outlet among Afghan media in exile, with a mission to defend freedom of expression and uphold the highest standards of journalism, to amplify the voices of those silenced within Afghanistan. Deeyar TV offers a diverse range of high-quality programming, including breaking news, sharp political analysis, cultural showcases, social debates, and artistic expressions. Supported by dedicated journalists and organizations that uphold free speech, it acts as a bridge, connecting Afghan communities across the globe and offering them a space to engage, inform, and inspire. More than just a media platform, with its origins in diversity, equity, and amplifying the marginalized voices. It provides a vital forum for dialogue, promoting democratic values and cultivating a vibrant media culture. By staying true to its principles of independence and integrity, Deeyar TV has become a cornerstone for Afghan narratives, fostering connections that transcend borders and empower communities. Deeyar TV isn't just a channel, it’s a beacon for truth and resilience, shaping a stronger, more informed Afghan society at home and abroad.",
+    "broadcast_platforms": [
+        "Roku",
+        "Samsung Smart TV",
+        "LG Smart TV",
+        "Google Play",
+        "Apple App Store",
+        "Official Website"
+    ],
+    "streaming_url": "https://59d39900ebfb8.streamlock.net/viet-sports/viet-sports/playlist.m3u8",
+    "thumbnail_url": "https://raw.githubusercontent.com/Deeyar-tv/DTV/main/DTV.png",
+    "categories": [
+        "News",
+        "Politics",
+        "Social",
+        "Cultural",
+        "Educational",
+        "Entertainment",
+        "Music",
+        "Cooking Competitions"
+    ],
+    "languages": {
+        "primary": "Dari",
+        "secondary": "Pashto",
+        "additional": "English"
+    },
+    "operating_hours": "24/7",
+    "contact_info": {
+        "email": "info@deeyar.tv",
+        "phone": "+15408007888",
+        "website": "https://deeyar.tv",
+        "telegram": "https://t.me/deeyartv",
+        "whatsapp": "https://wa.me/15408007888"
+    },
+    "social_media": {
+        "facebook": "https://facebook.com/deeyartv",
+        "instagram": "https://instagram.com/deeyartv",
+        "youtube": "https://youtube.com/deeyartv",
+        "twitter": "https://twitter.com/deeyartv"
+    }
+}
